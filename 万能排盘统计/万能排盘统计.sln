@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "万能排盘统计", "万能排盘统计\万能排盘统计.csproj", "{B5DDAD00-9A27-4055-A8D6-89E3275D5271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "历法", "历法\历法.csproj", "{68BE4DE7-9BA9-4445-8989-B1C375C8E764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{A0A9B284-DB00-439D-A2E6-82CC5420C747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "五行基础", "五行基础\五行基础.csproj", "{EC341DF4-F68B-4215-9AD2-A09030480225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "紫微斗数", "紫微斗数\紫微斗数.csproj", "{F258B09C-9102-44AD-9CAB-8A01F232CE43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "子平八字", "子平八字\子平八字.csproj", "{B0573D2E-C51A-47C4-AE9B-49E945F00F76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5DDAD00-9A27-4055-A8D6-89E3275D5271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DDAD00-9A27-4055-A8D6-89E3275D5271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DDAD00-9A27-4055-A8D6-89E3275D5271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DDAD00-9A27-4055-A8D6-89E3275D5271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BE4DE7-9BA9-4445-8989-B1C375C8E764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BE4DE7-9BA9-4445-8989-B1C375C8E764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BE4DE7-9BA9-4445-8989-B1C375C8E764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BE4DE7-9BA9-4445-8989-B1C375C8E764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A9B284-DB00-439D-A2E6-82CC5420C747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A9B284-DB00-439D-A2E6-82CC5420C747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A9B284-DB00-439D-A2E6-82CC5420C747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A9B284-DB00-439D-A2E6-82CC5420C747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC341DF4-F68B-4215-9AD2-A09030480225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC341DF4-F68B-4215-9AD2-A09030480225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC341DF4-F68B-4215-9AD2-A09030480225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC341DF4-F68B-4215-9AD2-A09030480225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F258B09C-9102-44AD-9CAB-8A01F232CE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F258B09C-9102-44AD-9CAB-8A01F232CE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F258B09C-9102-44AD-9CAB-8A01F232CE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F258B09C-9102-44AD-9CAB-8A01F232CE43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0573D2E-C51A-47C4-AE9B-49E945F00F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0573D2E-C51A-47C4-AE9B-49E945F00F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0573D2E-C51A-47C4-AE9B-49E945F00F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0573D2E-C51A-47C4-AE9B-49E945F00F76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {640E48EF-69F1-4AD2-AC78-0C86BCCFCD71}
+	EndGlobalSection
+EndGlobal
